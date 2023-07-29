@@ -1,4 +1,4 @@
-# HViolence Recognition  -- Violence Recognition from Videos using Machine Learning
+# Violence Recognition  -- Violence Recognition from Videos using Machine Learning
 `Violence and non-Violence Predictor`. This project is Violence Recognition from Videos using Machine Learning.
 
 ## TECHNOLOGIES
