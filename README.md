@@ -1,4 +1,4 @@
-# Housing Price Prediction  -- Using Regression Model
+# HViolence Recognition  -- Violence Recognition from Videos using Machine Learning
 `Violence and non-Violence Predictor`. This project is Violence Recognition from Videos using Machine Learning.
 
 ## TECHNOLOGIES
